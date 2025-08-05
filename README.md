@@ -1,4 +1,4 @@
-# math_number_computing
+# Math Number Computing
 
 ### Table 1: Multiplying Two 5-digit Numbers Dataset
 
